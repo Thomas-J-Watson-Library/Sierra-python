@@ -1,0 +1,103 @@
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1819911|     6|     4|     1|     1|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1584252|     7|     2|     1|     1|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1594826|     8|     4|     3|     1|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1998712|    10|     2|     1|     1|    16
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1983497|     8|     4|     4|     3|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b2020799|     8|     2|     5|     0|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b2001902|     7|     6|     3|     0|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1992893|     5|     2|     3|     0|     0
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1584252|     7|     2|     1|     1|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1992983|    15|     2|     1|     5|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1992893|     5|     2|     3|     0|     0
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1992893|     5|     2|     3|     0|     0
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1983497|     8|     4|     4|     3|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    11|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    11|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    15|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    12|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    12|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    15|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    14|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    14|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    12|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1977239|    12|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1992983|    16|     2|     1|     5|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1820481|    10|     4|     1|     2|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1998712|    11|     2|     1|     1|    16
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b2001902|     8|     6|     3|     0|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1826243|    16|     2|     4|     4|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1833609|     8|     2|     0|     2|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1832092|    13|     4|     1|     5|    50
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1594826|     8|     4|     3|     1|
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1983497|     9|     4|     4|     3|
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1982397|     4|     2|     0|     0|
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1992983|    16|     2|     1|     5|
+
+   BIBID|FIELDS| ITEMS| NAMES| SUBJS|HOLDNG
+b1819911|     6|     4|     1|     1|
